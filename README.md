@@ -1,0 +1,2 @@
+# INTELLIGENT-SKILL-MANAGEMENT-SYSTEM-USING-PINN
+this my first project 
